@@ -1,0 +1,11 @@
+{
+  "org": "pyusb",
+  "repo": "pyusb",
+  "versions": [
+    {
+      "commit": "3241c0e6a7debafd7597925e8403d9d3ea02ed93",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:36:42.975044+00:00"
+    }
+  ]
+}
